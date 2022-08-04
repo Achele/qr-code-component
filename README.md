@@ -15,13 +15,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-<img src= "images/mobile view.png">
-![images](images/desktop view.png)
+![mobile view](./images/mobile view.png)
+![desktop view](./images/desktop view.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://your-solution-url.com
+- Live Site URL: https://achele.github.io/qr-code-component/
 
 ## My process
 
