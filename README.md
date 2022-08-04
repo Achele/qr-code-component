@@ -15,8 +15,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![mobile view](./images/mobile view.png)
-![desktop view](./images/desktop view.png)
+<img src = "/images/Mobile view.png" alt= "mobile view of qr code component">
+<img src = "/images/desktop view.png" alt = "desktop view of qr code component">
+
 
 ### Links
 
