@@ -10,14 +10,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![](images/mobile view.png)
-![](images/desktop view.png)
+<img src= "images/mobile view.png">
+![images](images/desktop view.png)
 
 ### Links
 
@@ -35,6 +34,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Github - [Add your name here](https://github.com/Achele)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Achele)
-- Twitter - [@yourusername](https://www.twitter.com/@ojoachele)
+- Github - [Ojoachele Onuh](https://github.com/Achele)
+- Frontend Mentor - [@Achele](https://www.frontendmentor.io/profile/Achele)
+- Twitter - [@ojoachele](https://www.twitter.com/@ojoachele)
